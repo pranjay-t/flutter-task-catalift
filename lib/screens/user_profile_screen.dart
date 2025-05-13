@@ -4,8 +4,8 @@ import 'package:flutter_task_catalift/components/career.dart';
 import 'package:flutter_task_catalift/components/primary_button.dart';
 import 'package:flutter_task_catalift/components/profile_icon.dart';
 
-class TaskScreen extends StatelessWidget {
-  const TaskScreen({super.key});
+class UserProfileScreen extends StatelessWidget {
+  const UserProfileScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

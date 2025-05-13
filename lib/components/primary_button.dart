@@ -24,7 +24,7 @@ class _PrimaryButtonState extends State<PrimaryButton> {
         onPressed: () {},
         style: TextButton.styleFrom(
           backgroundColor:
-              widget.filled! ? Color(0xFF03045E) : Color(0x4D03045E),
+              widget.filled! ? Color(0xFF03045E) : Color(0x1A03045E),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(14),
             side: BorderSide(

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_task_catalift/task_screen.dart';
+import 'package:flutter_task_catalift/screens/user_profile_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter-Task-Catalift',
       theme: ThemeData.light(useMaterial3: true),
-      home: const TaskScreen(),
+      home: const UserProfileScreen(),
     );
   }
 }
