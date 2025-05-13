@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_task_catalift/components/career.dart';
 import 'package:flutter_task_catalift/components/primary_button.dart';
 import 'package:flutter_task_catalift/components/profile_icon.dart';
-import 'package:flutter_task_catalift/responsive.dart';
+import 'package:flutter_task_catalift/Responsive/responsive.dart';
 
 class UserProfileScreen extends StatelessWidget {
   const UserProfileScreen({super.key});
