@@ -6,7 +6,6 @@ class Career extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 350,
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
